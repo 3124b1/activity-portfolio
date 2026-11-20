@@ -29,7 +29,7 @@ _동아리, 교과 프로젝트, 대외활동에서 수행한 작업과 결과�
 | 활동명 | 내용 |
 | --- | --- |
 | ⬜교내 인문데이터자료 디지털화 용병 | TXT 전처리 및 XML 변환 작업 - [내용](programs/xml-processing) |
-| ⬜2026 FIELD CAMP · 2024 FIELD CAMP | 해커톤| [활동 소개](programs/field-camp/README.md) |
+| ⬜2026 FIELD CAMP · 2024 FIELD CAMP | 해커톤| [결과물](programs/filed-camp) |
 | ⬜2024 통계교육 지원단 1기 | 초·중·고 총 4개 학교의 통계수업 진행 - [활동영상](https://youtu.be/MA5SmLHFMj0?si=AUG55v9dBPw2FlhW) |
 
 </div>
