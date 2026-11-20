@@ -19,7 +19,7 @@ _동아리, 교과 프로젝트, 대외활동에서 수행한 작업과 결과�
 
 | 교과명 | 내용 |
 | --- | --- |
-|⬜산업데이터과학 (26-2학기)| 바이브코딩으로 데이터 분석 - [과제](coursework/industrial-data-science/README.md) |
+|⬜산업데이터과학 (26-2학기)| 바이브코딩으로 데이터 분석 - [과제](coursework/industrial-data-science/) |
 |⬜메타버스활용프로젝트 (26-1학기)| 마인크래프트를 활용한 게이미피케이션 - [결과물](https://app.notion.com/p/_-41e9fac5c69b80498596e1b5a0fbe1e7?source=copy_link) |
 |⬜데이터마이닝 (25-1학기)| 안개 예측 모델 개발 - [과제](coursework/fog-prediction/README.md) |
 <br>
