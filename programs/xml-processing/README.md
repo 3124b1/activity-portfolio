@@ -8,7 +8,7 @@
 - 담당 작업: 	<br>
 
   ➀  txt 원본 파일을 정규 표현식으로 전처리 작업<br>
-  ➁  마커된 txt 파일을 xml로 변환 - [코드](programs/xml-processing/txt_to_xml.py)
+  ➁  마커된 txt 파일을 xml로 변환 - [코드](programs/xml-processing/txt-to-xml.py)
  
 
      
