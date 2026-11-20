@@ -5,7 +5,7 @@
 - 역할: Phase02 모델링 및 레포트 작성, Phase03 시나리오1 담당 및 레포트 작성
 
 - [Phase02-관중 입장 수익 최대화 스케줄링 MILP](2A_phase2_code.ipynb)
-- [Phase03-다이나믹 프라이싱을 통한 입장 수익 최대화 레포트](2A_phase3_report.pdf.pdf)
+- [Phase03-다이나믹 프라이싱을 통한 입장 수익 최대화 레포트](2A_phase3_report.pdf) / [모델링](2A_phase3_code.ipynb)
 - [발표 ppt](필드발표26.pdf)
 
 <br>
