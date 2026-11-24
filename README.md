@@ -20,10 +20,13 @@ _동아리, 교과 프로젝트, 대외활동에서 수행한 작업과 결과�
 | 교과명 | 내용 |
 | --- | --- |
 |⬜시뮬레이션 (26-2학기 수강 중)| 시뮬레이션 모델링 및 생산성 분석 프로젝트 - [과제](coursework/simulation/) |
+|⬜품질경영 (26-2학기 수강 중)| QFD case study 프로젝트 - [과제](coursework/quality-management/qfd-case-study) |
 |⬜산업데이터과학 (26-2학기 수강 중)| 바이브코딩으로 데이터 분석 - [과제](coursework/industrial-data-science/) |
 |⬜메타버스활용프로젝트 (26-1학기 청강)| 마인크래프트를 활용한 게이미피케이션 - [결과물](https://app.notion.com/p/_-41e9fac5c69b80498596e1b5a0fbe1e7?source=copy_link) |
 |⬜데이터마이닝 (25-1학기 수강)| 안개 예측 모델 개발 프로젝트 - [과제](coursework/fog-classification) |
 <br>
+
+
 
 **🌳기타 활동**
 
