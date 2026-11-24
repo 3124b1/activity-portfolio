@@ -17,6 +17,11 @@ Zoom·Google Meet·Microsoft Teams의 Google Play 리뷰와 자체 진행한 설
 감정분류 검토용 리뷰 102개를 직접 읽고 라벨링했다. 방법론 보고서를 정리하고 일부 기술적 특성(EC)의 근거 조사, 서비스 간 벤치마킹 정리, 결론 구성에도 참여했다.
 <br><br>
 
+
+![ca-ppt](docs/ca-excerpt.png)
+
+<br><br>
+
 ## 리뷰에서 확인한 내용
 
 | 질문 | 분석 결과 |
