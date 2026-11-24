@@ -63,4 +63,4 @@ Zoom·Google Meet·Microsoft Teams의 Google Play 리뷰와 자체 진행한 설
 
 <br>
 
-[발표 자료](docs/2026-Quality-Management-AS#1.pdf)
+[발표 자료](docs/qfd.pdf)
