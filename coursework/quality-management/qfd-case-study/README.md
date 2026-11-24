@@ -60,5 +60,7 @@ Zoom·Google Meet·Microsoft Teams의 Google Play 리뷰와 자체 진행한 설
 예산 20만 달러를 가정했을 때 선택된 조합은 EC2와 EC7–EC14였다. 조합의 가정 비용은 192,000달러였고,
 
 **선택된 항목이 차지한 전체 EC 기술 가중치의 합은 74.8%** 였다. <br>이를 바탕으로 회의 후 채팅 접근, 게스트 입장 절차, 연결 복구 등을 개선 후보로 제안했다.
+
 <br>
-[발표 자료](docs/2026 Quality Management AS#1.pdf)
+
+[발표 자료](docs/2026-Quality-Management-AS#1.pdf)
